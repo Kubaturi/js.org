@@ -581,6 +581,7 @@ var cnames_active = {
   "daysfromnow": "pedrokost.github.io/daysfromnow", // noCF? (don´t add this in a new PR)
   "dbar": "dbarjs.github.io",
   "dbash": "oocydo.github.io/dbash",
+  "dbd": "https://github.com/dbd-js/dbd.js"
   "dblog": "dblog.netlify.com",
   "dbo": "z3ta.github.io/dbo", // noCF? (don´t add this in a new PR)
   "dbothook": "dbots-pkg.github.io/dbothook-website",
